@@ -1,0 +1,8 @@
+Version Control Tool - GIT (GitHub, GitLab, Bitbucket)
+Build tool - Maven, gradle, MS Build(dotnet)
+Continous Integration tool - Jenkins
+Configuration Management tool - Chef, Puppet, Ansible
+Containerization - Docker
+Container Orcestration - Kubernetes
+Testing tool - Selenium, Gremlin
+Monitoring tool - Nagios
